@@ -1,5 +1,8 @@
-# Employee-Performance-Analysis-Dashboard-Power-BI
-Project Description:
-Developed an interactive Employee Performance Analysis Dashboard using Microsoft Power BI to monitor, evaluate, and compare employee performance across departments and roles. The dashboard provides a centralized view of key performance indicators (KPIs) such as productivity, performance ratings, goal achievement, attendance, and experience levels, enabling managers and HR teams to make data-driven performance management decisions.
+Employee Performance Analysis Dashboard | Power BI
 
-The dashboard transforms raw employee performance data into clear visual insights, helping organizations identify top performers, skill gaps, underperforming areas, and training requirements.
+Built an interactive Power BI dashboard to analyze employee performance across departments and roles. The dashboard provides insights into performance ratings, productivity, attendance, experience, and goal achievement, enabling data-driven decisions for appraisals, promotions, and training needs.
+
+🔹 Performance & KPI analysis
+🔹 Department-wise and employee-level insights
+🔹 DAX-based metrics and Power Query transformations
+🔹 Interactive visuals and filters
